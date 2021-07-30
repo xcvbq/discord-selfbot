@@ -1,0 +1,32 @@
+{
+  "name": "simple-selfbot-base",
+  "version": "1.0.0",
+  "description": "a very simple discord selfbot base for beginner",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DmK-Loki/Simple-Selfbot-Base.git"
+  },
+  "keywords": [
+    "discord",
+    "selfbot"
+  ],
+  "author": "DmK-Loki",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "discord-buttons": "^4.0.0",
+    "discord.js": "^11.6.1",
+    "node-fetch": "^2.6.1",
+    "public-ip": "^4.0.4",
+    "webhook-discord": "^3.7.8"
+  },
+  "bugs": {
+    "url": "https://github.com/DmK-Loki/Simple-Selfbot-Base/issues"
+  },
+  "homepage": "https://github.com/DmK-Loki/Simple-Selfbot-Base#readme",
+  "devDependencies": {}
+}
